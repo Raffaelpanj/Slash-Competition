@@ -1,0 +1,4 @@
+Pak Canek memberikan sebuah tugas kepada murid-muridnya. Tugas yang diberikan yaitu murid 
+diharuskan untuk menentukan angka berapa saja yang memiliki sifat angka “Satu” sebanyak N. 
+Angka yang memiliki sifat angka "Satu" itu sendiri adalah angka yang menghasilkan angka 1 
+dari penjumlahan kuadrat digitnya. Digit dimulai dari nilai 100
