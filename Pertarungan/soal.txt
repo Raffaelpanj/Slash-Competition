@@ -1,0 +1,13 @@
+Anda adalah sebuah petarung tinju yang akan melakukan sebuah pertandingan. Setiap petarung
+yang ikut dalam pertandingan memiliki kekuatan yang dinotasikan sebagai Pi. Jika dua petarung 
+i dan j yang sedang melakukan pertandingan, maka petarung yang memiliki kekuatan yang lebih 
+besar yang menang. Tetapi kekuatan player yang menang akan dikalkulasikan sebagai 𝑎𝑏𝑠(𝑃𝑖 −
+𝑃𝑗). Jika kekuatan petarung i dan j sama, maka petarung dengan indeks terkecil yang menang.
+
+Pada pertandingan ini, petarung pertama dapat menyusun urutan petarung lainnya. Setelah itu 
+petarung pertama melawan petarung kedua. Pemenangnya akan melawan petarung ketiga dan 
+begitu seterusnya hingga petarung N. Pemenang dari pertarungan ini adalah yang dapat 
+memenangkan pertarungan sampai akhir.
+
+Pada kasus ini, anda adalah petaurng pertama sehingga anda dapat menyusun urutan petarung 
+lainnya (dari petarung urutan 2 hingga N). Bisa kah anda menang dari pertandingan ini?
